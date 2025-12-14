@@ -58,7 +58,7 @@ I enjoy converting real-world problems into practical software solutions and con
 * Worked on healthcare and EV-related management systems
 * Designed responsive user interfaces using HTML, CSS, and JavaScript
 * Integrated backend logic with database operations
-* Collaborated with team members on real-world project modules
+
 
 ---
 
@@ -79,10 +79,6 @@ Web application to manage and locate EV charging stations.
 Healthcare-focused web portal for rural communities.
 **Tech Stack:** Java, JSP, MySQL
 
-### 🔹 Ignite Hub
-
-Student Innovation & Collaboration Platform.
-**Tech Stack:** JSP, MySQL, HTML, CSS, JavaScript
 
 ---
 
